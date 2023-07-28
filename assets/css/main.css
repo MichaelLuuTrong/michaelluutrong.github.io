@@ -4036,3 +4036,8 @@ body.is-preload #sidebar nav ul li {
 	}
 
 }
+
+.newinner {
+	flex-direction: row;
+	display: flex;
+}
